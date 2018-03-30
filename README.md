@@ -12,7 +12,7 @@ Ping multiple hosts and/or IPs by opening multiple cmd windows
 
 stop: double click kill.bat (close all cmd windows)
 
-## configure
+## Configuration
 Please edit the file named address.txt.
 If you want to open m * n cmd windows, the file should be like:
 ```
@@ -24,7 +24,7 @@ www.example2.com
 ```
 
 ## Example
-
+![sorry, there is no png.](http://png.suc16.com/png/multiping.PNG)
 
 ## License
 [GNU General Public License v3.0](http://www.gnu.org/)
