@@ -7,14 +7,20 @@ This implementation bases on VBS(Microsoft Visual Basic Script Edition).
 2. high-definition monitor.
 
 ## Usage
-start: double click multiping.vbs(Ping multiple hosts and/or IPs by opening multiple cmd windows)  
+start: 
+    double click multiping.vbs   
+    (Ping multiple hosts and/or IPs by opening multiple cmd windows)  
 
-stop: double click kill.bat (close all cmd windows)
+stop: 
+    double click kill.bat   
+    (close all cmd windows)
 
 ## Configuration
 Please edit the file named address.txt.
 If you want to open m * n cmd windows, the file should be like:
 ```
+address.txt
+
 m n
 www.example1.com
 www.example2.com
