@@ -24,7 +24,7 @@ www.example2.com
 ```
 
 ## Example
-![sorry, there is no png.](http://png.suc16.com/png/multiping.PNG)
+![sorry, there is no png.](http://ipv6.lab.ivi2.com/png/multiping.PNG)
 
 ## License
 [GNU General Public License v3.0](http://www.gnu.org/)
