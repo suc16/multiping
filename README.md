@@ -27,4 +27,4 @@ www.example2.com
 
 
 ## License
-[WTFPL](http://www.wtfpl.net/)
+[GNU General Public License v3.0](http://www.wtfpl.net/)
