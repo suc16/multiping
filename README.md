@@ -4,15 +4,13 @@ Ping multiple hosts and/or IPs by opening multiple cmd windows
 1、WINDOWS system
 2、high-definition monitor
 ## Usage
-```
 start: double click multiping.vbs
 
 Ping multiple hosts and/or IPs by opening multiple cmd windows
 
 stop: double click kill.bat (close all cmd windows)
-```
 ## configure
-Please edit address.txt.
+Please edit the file named address.txt.
 If you want to open m * n cmd windows, the file should be like:
 ```
 m n
