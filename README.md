@@ -7,9 +7,7 @@ This implementation bases on VBS(Microsoft Visual Basic Script Edition).
 2. high-definition monitor.
 
 ## Usage
-start: double click multiping.vbs
-
-Ping multiple hosts and/or IPs by opening multiple cmd windows
+start: double click multiping.vbs(Ping multiple hosts and/or IPs by opening multiple cmd windows)  
 
 stop: double click kill.bat (close all cmd windows)
 
