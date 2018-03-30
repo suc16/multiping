@@ -1,5 +1,5 @@
 # Multiping(windows)
-Ping multiple hosts and/or IPs by opening multiple cmd windows.
+Ping multiple hosts and/or IPs by opening multiple cmd windows.  
 This implementation bases on VBS(Microsoft Visual Basic Script Edition).
 
 ## Requirements
