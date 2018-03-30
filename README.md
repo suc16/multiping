@@ -32,4 +32,4 @@ www.example2.com
 ![sorry, there is no png.](http://ipv6.lab.ivi2.org/png/multiping.PNG)
 
 ## License
-[GNU General Public License v3.0](http://www.gnu.org/)
+[GNU General Public License v3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
