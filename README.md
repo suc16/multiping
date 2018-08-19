@@ -28,8 +28,5 @@ www.example2.com
 10.0.0.2
 ```
 
-## Example
-![sorry, there is no png.](http://ipv6.lab.ivi2.org/png/multiping.PNG)
-
 ## License
 [GNU General Public License v3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
